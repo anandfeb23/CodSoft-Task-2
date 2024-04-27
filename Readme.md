@@ -21,7 +21,7 @@ Embark on a culinary adventure with Anshu's Pizzaiolo, your ultimate destination
 ## Get Started
 Ready to experience pizza perfection? Visit our website and place your order today!
 
-## 🍽️ [Order Now](https://anshuspizzaiolo.netlify.app/)
+## 🍽️ [Order Now](https://my-project-ogu69g5pk-anandhimanshus-projects.vercel.app)
 
 Copyright
 Copyright © 2024 Anshu's Pizzaiolo. All rights reserved.
