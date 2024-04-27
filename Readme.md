@@ -1,7 +1,7 @@
 ## 🍕 Anshu's Pizzaiolo 🍕
 Welcome to Anshu's Pizzaiolo, where every slice is a masterpiece!
 
-[Explore](https://anshuspizzaiolo.netlify.app/)
+[Explore](https://anshuspizzaiolo.vercel.app/)
 
 ## About
 Embark on a culinary adventure with Anshu's Pizzaiolo, your ultimate destination for mouthwatering pizzas crafted with love and passion. Dive into a world of flavor, where each bite tells a story and every ingredient is carefully selected to tantalize your taste buds.
@@ -21,7 +21,7 @@ Embark on a culinary adventure with Anshu's Pizzaiolo, your ultimate destination
 ## Get Started
 Ready to experience pizza perfection? Visit our website and place your order today!
 
-## 🍽️ [Order Now](https://my-project-ogu69g5pk-anandhimanshus-projects.vercel.app)
+## 🍽️ [Order Now](https://anshuspizzaiolo.netlify.app/)
 
 Copyright
 Copyright © 2024 Anshu's Pizzaiolo. All rights reserved.
